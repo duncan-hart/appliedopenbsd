@@ -1,11 +1,11 @@
 # Site settings
-title: Neophiliac
-description: Revolutionary by nature
+title: Applied OpenBSD
+description: The proactively secure Unix-like operating system.
 
 # User settings
-username: Neophiliac
+username: Applied OpenBSD
 user_description: 
-user_title: Revolutionary by nature. 
+user_title: The proactively secure Unix-like operating system. 
 
 # Google-analytics
 google-analytics:
